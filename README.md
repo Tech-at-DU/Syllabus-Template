@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.makeschool.com">
-      <img alt="Make School Logo" src="./Web/logo-icononly.svg" height="110">
-  </a>
-</p>
-
 # Title
 
 ### [Reveal Slide Instructions](./Reveal/README.md) <-- Remove this before updating your repo
@@ -278,12 +272,8 @@ Please pick from a template below and delete the other ones
 <!-- omit in toc -->
 ### **Section A: INSTRUCTOR NAME - HYBRID**
 
-**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)
-
+**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)<br>
 **Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (14 class sessions)
-
-Hybrid sections are a mixture of online and in person components.  In person sessions include labs and group work as noted on your schedule.  These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
-
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
@@ -305,8 +295,7 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 <!-- omit in toc -->
 ### **Section B: INSTRUCTOR NAME**
 
-**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)
-
+**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)<br>
 **Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (14 class sessions)
 
 
@@ -335,10 +324,10 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Link to Assignment](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Link to Assignment]()                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment]()  |
+| [Link to Assignment]()                      |  day, Date    |  day, Date   | [Submit Assignment]()  |
+| [Link to Assignment]()                      |  day, Date    |  day, Date   | [Submit Assignment]()  |
+| [Link to Assignment]()                      |  day, Date    |  day, Date   | [Submit Assignment]()  |
 
 ## Class Assignments
 
@@ -346,7 +335,7 @@ We will be using [Gradescope](gradescope.com), which allows us to provide fast a
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
-Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+Your Gradescope login is your Dominican University of California email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
 ### Tutorials
 
@@ -354,7 +343,7 @@ Your Gradescope login is your Make School email, and your password can be change
 
 ### Projects
 
-- [Project Template - Use to build your own project spec](https://github.com/Make-School-Labs/Project-Template)
+- [Project Template - Use to build your own project spec](https://github.com/Tech-at-DU/Project-Template)
 
 ## Evaluation
 
@@ -371,41 +360,8 @@ To pass this course you must meet the following requirements:
 
 ##  Information Resources
 
-Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
-
-- [make.sc/library](http://make.sc/library)
+Any additional resources you may need (online books, etc.) can be found here.
 
 ## Interview Topics
 
 Write what topis your course covers that students may encounter in a technical interview. Choose from the following sub-topics (pick all that apply):
-
-### Algorithmic/Computer Science
-
-Example topics:
-
-- Sorting algorithms
-- Search algorithms
-- Runtime Complexity
-- Data Structures
-- etc.
-
-### Technical Discussion
-
-Example topics:
-
-- Memory management
-- CRUD
-- Deploying a live app
-- etc.
-
-## Make School Course Policies
-
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
-- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
-- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
-- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
